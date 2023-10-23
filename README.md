@@ -2,6 +2,8 @@
 
 ## summary
 
+![image](https://github.com/853683892/TGSS/blob/main/Fig-1.png)
+
 Molecular property prediction is an important task in drug discovery, with help of self supervised learning method, the performance of molecular property prediction could be imporved by utilizing large scale unlabeled dataset. In this paper, we propose a triple generative self-supervised learning method for molecular property prediction, called TGSS. 
 ## Dependencies
 
